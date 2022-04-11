@@ -5,6 +5,7 @@ This repository is only here for terraform training to play with public cloud re
 ## Available stacks
 
 - [Basic 2-tiers](palo-alto-demo-stack/) security stack to access to web resource.
+- [Module to bootsrap](modules/s3-bootstrap-panos/) PANOS devices. Adapted from [terraform-aws-panos-bootstrap](https://github.com/PaloAltoNetworks/terraform-aws-panos-bootstrap)
 
 ## Stacks structure
 
