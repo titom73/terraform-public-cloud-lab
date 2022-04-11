@@ -60,3 +60,8 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+tests-repo/*
+*.pem
+*.pub
+*.zip
